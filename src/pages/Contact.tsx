@@ -282,13 +282,13 @@ export function Contact() {
                   <p className="text-[14px] text-black/50 mb-2">Email</p>
                   <div className="space-y-1">
                     <a 
-                      href="mailto:hr@blueaquaintegrators.com"
+                      href="mailto:hr@a2techconsult.com"
                       className="block text-[15px] text-black/80 hover:text-black transition-colors underline"
                     >
                       hr@blueaquaintegrators.com
                     </a>
                     <a 
-                      href="mailto:sales@blueaquaintegrators.com"
+                      href="mailto:sales@a2techconsult.com"
                       className="block text-[15px] text-black/80 hover:text-black transition-colors underline"
                     >
                       sales@blueaquaintegrators.com
