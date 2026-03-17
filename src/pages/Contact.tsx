@@ -219,10 +219,10 @@ export function Contact() {
             <p className="text-[15px] text-black/60 mb-4">
               You can reach us directly at{' '}
               <a
-                href="mailto:info@a2integrators.com"
+                href="mailto:info@a2techconsult.com"
                 className="text-black underline hover:text-black/70 transition-colors"
               >
-                info@a2integrators.com
+                info@a2techconsult.com
               </a>
             </p>
             <p className="text-[13px] text-black/40">
